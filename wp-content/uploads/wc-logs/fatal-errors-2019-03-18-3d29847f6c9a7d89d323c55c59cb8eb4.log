@@ -1,0 +1,4 @@
+2019-03-18T05:40:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\Final\wp-content\themes\enfold\class.theme-modules.php on line 57
+
+2019-03-18T05:41:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\Final\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\magazine\magazine.php on line 8
+
